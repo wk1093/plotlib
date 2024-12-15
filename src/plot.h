@@ -9,6 +9,7 @@
 #include <raylib.h>
 
 // TODO: Use custom shader to draw the plot instead of inefficiently drawing lines
+// TODO: Implement plot function
 
 class Plot {
 public:
